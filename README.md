@@ -19,5 +19,6 @@
   
 ### Infrastructure as Code
 
+- [AWS Recon](https://github.com/darkbitio/aws-recon) -- Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata. 
 - [localstack](https://localstack.cloud/) -- A fully functional local cloud stack Develop and test your cloud and serverless apps offline!
 - [yor](https://yor.io/) -- Automated IaC tag and trace
